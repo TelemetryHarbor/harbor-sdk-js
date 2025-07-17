@@ -42,7 +42,7 @@ For full details and advanced usage, please see our official documentation at [d
 ## Installation
 
 ```bash
-npm install telemetryharbor-sdk
+npm install telemetryharborsdk
 ```
 
 ***
