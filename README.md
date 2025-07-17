@@ -55,7 +55,7 @@ Here is a basic example of how to use the SDK.
 import { HarborClient, GeneralReading } from 'telemetryharborsdk';
 
 // 1. Initialize the client
-const client = new TelemetryHarborClient(
+const client = new HarborClient(
   'YOUR_API_ENDPOINT',
   'YOUR_API_KEY'
 );
