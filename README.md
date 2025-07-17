@@ -9,7 +9,7 @@
 [![Node.js Version](https://img.shields.io/node/v/telemetryharbor-sdk.svg)](https://nodejs.org)
 
 <!-- GitHub -->
-![Build](https://github.com/TelemetryHarbor/harbor-sdk-js/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/TelemetryHarbor/harbor-sdk-js/actions/workflows/publish-to-npm.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/TelemetryHarbor/harbor-sdk-js.svg)
 ![Issues](https://img.shields.io/github/issues/TelemetryHarbor/harbor-sdk-js.svg)
 ![Pull Requests](https://img.shields.io/github/issues-pr/TelemetryHarbor/harbor-sdk-js.svg)
