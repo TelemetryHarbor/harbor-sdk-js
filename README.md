@@ -52,7 +52,7 @@ npm install telemetryharbor-sdk
 Here is a basic example of how to use the SDK.
 
 ```javascript
-import { TelemetryHarborClient, GeneralReading } from 'telemetryharbor-sdk';
+import { HarborClient, GeneralReading } from 'telemetryharbor-sdk';
 
 // 1. Initialize the client
 const client = new TelemetryHarborClient(
