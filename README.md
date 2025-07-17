@@ -1,4 +1,4 @@
-# TelemetryHarbor SDK for Node.js
+# Telemetry Harbor SDK for Node.js
 
 <!-- Telemetry Harbor JavaScript SDK Badges -->
 
