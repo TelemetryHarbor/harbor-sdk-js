@@ -110,4 +110,3 @@ Sends a single telemetry reading.
 
 Sends an array of readings in a single HTTP request.
 
-***
