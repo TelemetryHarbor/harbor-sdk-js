@@ -1,0 +1,35 @@
+{
+  "name": "telemetryharborsdk",
+  "version": "0.1.6",
+  "description": "A Node.js SDK for sending telemetry to Telemetry Harbor.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TelemetryHarbor/harbor-sdk-js.git"
+  },
+  "keywords": [
+    "telemetry",
+    "iot",
+    "sdk",
+    "api-client"
+  ],
+  "author": "Telemetry Harbor <support@telemetryharbor.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TelemetryHarbor/harbor-sdk-js/issues"
+  },
+  "homepage": "https://github.com/TelemetryHarbor/harbor-sdk-js#readme",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.0.0",
+    "debug": "^4.4.1"
+  }
+}
