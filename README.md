@@ -3,8 +3,8 @@
 <!-- Telemetry Harbor JavaScript SDK Badges -->
 
 <!-- npm -->
-[![npm version](https://img.shields.io/npm/v/telemetryharbor-sdk.svg)](https://www.npmjs.com/package/telemetryharbor-sdk)
-[![npm downloads](https://img.shields.io/npm/dm/telemetryharbor-sdk.svg)](https://www.npmjs.com/package/telemetryharbor-sdk)
+[![npm version](https://img.shields.io/npm/v/telemetryharbor-sdk.svg)](https://www.npmjs.com/package/telemetryharborsdk)
+[![npm downloads](https://img.shields.io/npm/dm/telemetryharbor-sdk.svg)](https://www.npmjs.com/package/telemetryharborsdk)
 [![License](https://img.shields.io/npm/l/telemetryharbor-sdk.svg)](https://github.com/TelemetryHarbor/harbor-sdk-js/blob/main/LICENSE)
 [![Node.js Version](https://img.shields.io/node/v/telemetryharbor-sdk.svg)](https://nodejs.org)
 
